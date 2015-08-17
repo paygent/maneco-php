@@ -1,0 +1,10 @@
+HTTP/1.1 400 Bad Request
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=AA8BBCD934B5278B5796AD55CA7189A9; Path=/paygent-openapi-api/; HttpOnly
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 01 Jan 2015 00:00:00 GMT
+
+{
+    "object": "error",
+    "error_code": "IR00001",

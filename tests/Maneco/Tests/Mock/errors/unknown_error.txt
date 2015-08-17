@@ -1,0 +1,14 @@
+HTTP/1.1 201 Created
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=AA8BBCD934B5278B5796AD55CA7189A9; Path=/paygent-openapi-api/; HttpOnly
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 01 Jan 2015 00:00:00 GMT
+
+{
+    "payment_id": "pay_123456789012",
+    "object": "card-payment",
+    "livemode": false,
+    "create_time": "20150101000000",
+    "status": "authorized",
+    "amount": 10000,

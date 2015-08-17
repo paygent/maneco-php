@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=AA8BBCD934B5278B5796AD55CA7189A9; Path=/paygent-openapi-api/; HttpOnly
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 01 Jan 2015 00:00:00 GMT
+
+{
+    "recursion_id": "rec_IdVaswsRgGlS",
+    "object": "recursion",
+    "livemode": false,
+    "created_time": "20150511105937",
+    "status": "10",
+    "amount": 10000,
+    "currency": "JPY",
+    "cycle": "1",
+    "timing": "31",
+    "first_executed": "20150511",
+    "last_executed": "20150511",
+    "next_scheduled": "20150630",
+    "resumable_until": null,
+    "end_scheduled": null,
+    "end": null,
+    "description": null,
+    "customer_id": "cus_bGuha13kNyiT",
+    "error_cd": null,
+    "error_msg": null
+}
